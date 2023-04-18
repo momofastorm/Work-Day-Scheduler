@@ -1,5 +1,35 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
+This is a simple calendar application that allows users to save events for each hour of the day. The application runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
+
+The application uses the Day.js library to work with date and time. The user can add important events to a daily planner to manage their time effectively.
+
+Getting Started
+To use this application, you can simply download or clone the repository and open the index.html file in your browser.
+
+How to Use
+When the application loads, the current day and time will be displayed at the top of the page.
+
+The user can scroll down to see the timeblocks for each hour of the day, starting from 9AM to 5PM.
+
+Each timeblock is color-coded to indicate whether it is in the past, present, or future. Grey indicates the past, red indicates the present, and green indicates the future.
+
+To add an event to a timeblock, the user can click on the block and type in their event.
+
+The user can save their event by clicking the save button located to the right of the timeblock.
+
+The event will be saved to local storage and will persist even if the page is refreshed or closed.
+
+Technologies Used
+HTML
+CSS
+JavaScript
+jQuery
+Day.js
+
+Authors
+This application was created by Marcy Rappaport as a homework assignment for the [UTA-VIRT-FSF-PT-Bootcamp].
+
 ## Your Task
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
