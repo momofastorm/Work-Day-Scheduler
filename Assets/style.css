@@ -3,6 +3,10 @@ body {
   font-size: 16px;
 }
 
+#currentDay {
+  font-size: 2rem;
+}
+
 textarea {
   background: transparent;
   border: none;
