@@ -27,7 +27,7 @@ JavaScript
 jQuery
 Day.js
 
-Authors
+Author
 This application was created by Marcy Rappaport as a homework assignment for the [UTA-VIRT-FSF-PT-Bootcamp].
 
 ## Your Task
